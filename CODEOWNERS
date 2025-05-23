@@ -1,0 +1,8 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @oracompte
+/src/backend/database.py      @oracompte
+/src/backend/routers/auth.py  @oracompte
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @oracompte
+
